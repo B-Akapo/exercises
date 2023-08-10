@@ -31,3 +31,8 @@
 16. [15-parity.py](https://github.com/B-Akapo/exercises/blob/main/python-basic-1/15-parity.py) - Program that determines if a number is even or odd.
 
 17. [16-list.py](https://github.com/B-Akapo/exercises/blob/main/python-basic-1/16-list.py) - Program that counts the number 4 in a given list. 
+
+18. [17-copiesagain.py](https://github.com/B-Akapo/exercises/blob/main/python-basic-1/17-copiesagain.py) - Program that gets n (non-negative integer) copies of the first 2 characters
+
+19. [18-vowel.py](https://github.com/B-Akapo/exercises/blob/main/python-basic-1/18-vowel.py) - Program that checks if a letter passed is a vowel
+
