@@ -1,3 +1,5 @@
+# Description: A program that checks the number of days between days
+
 from datetime import datetime
 
 def main():
