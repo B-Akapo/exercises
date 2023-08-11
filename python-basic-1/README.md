@@ -41,3 +41,7 @@
 21. [20-histogram.py](https://github.com/B-Akapo/exercises/blob/main/python-basic-1/20-histogram.py) - A program that creates a histogram from a given list of integers.
 
 22. [21-convertint.py](https://github.com/B-Akapo/exercises/blob/main/python-basic-1/21-convertint.py) - A program that concatenates all elements in a list into a string.
+
+23. [22-evenlist.py](https://github.com/B-Akapo/exercises/blob/main/python-basic-1/22-evenlist.py) - A program that prints all even numbers from a given list
+
+24. [23-colorlist.py](https://github.com/B-Akapo/exercises/blob/main/python-basic-1/23-colorlist.py) - A program that prints out all colors from color_list_1 that are not present in color_list_2
