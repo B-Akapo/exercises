@@ -36,3 +36,6 @@
 
 19. [18-vowel.py](https://github.com/B-Akapo/exercises/blob/main/python-basic-1/18-vowel.py) - Program that checks if a letter passed is a vowel
 
+20. [19-checklis.py](https://github.com/B-Akapo/exercises/blob/main/python-basic-1/19-checklist.py) - A program that checks whether a specified value is contained within a group of values
+
+21. [20-histogram.py](https://github.com/B-Akapo/exercises/blob/main/python-basic-1/20-histogram.py) - A program that creates a histogram from a given list of integers
