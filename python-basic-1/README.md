@@ -45,3 +45,7 @@
 23. [22-evenlist.py](https://github.com/B-Akapo/exercises/blob/main/python-basic-1/22-evenlist.py) - A program that prints all even numbers from a given list
 
 24. [23-colorlist.py](https://github.com/B-Akapo/exercises/blob/main/python-basic-1/23-colorlist.py) - A program that prints out all colors from color_list_1 that are not present in color_list_2
+
+25. [24-triangleare.py](https://github.com/B-Akapo/exercises/blob/main/python-basic-1/24-trianglearea.py) - A program that will accept the base and height of a triangle and compute its area. 
+
+26. [25-gcd.py](https://github.com/B-Akapo/exercises/blob/main/python-basic-1/25-gcd.py) - A program that computes the greatest common divisor (GCD) of two positive integers.
