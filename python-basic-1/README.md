@@ -32,10 +32,12 @@
 
 17. [16-list.py](https://github.com/B-Akapo/exercises/blob/main/python-basic-1/16-list.py) - Program that counts the number 4 in a given list. 
 
-18. [17-copiesagain.py](https://github.com/B-Akapo/exercises/blob/main/python-basic-1/17-copiesagain.py) - Program that gets n (non-negative integer) copies of the first 2 characters
+18. [17-copiesagain.py](https://github.com/B-Akapo/exercises/blob/main/python-basic-1/17-copiesagain.py) - Program that gets n (non-negative integer) copies of the first 2 characters.
 
-19. [18-vowel.py](https://github.com/B-Akapo/exercises/blob/main/python-basic-1/18-vowel.py) - Program that checks if a letter passed is a vowel
+19. [18-vowel.py](https://github.com/B-Akapo/exercises/blob/main/python-basic-1/18-vowel.py) - Program that checks if a letter passed is a vowel.
 
-20. [19-checklis.py](https://github.com/B-Akapo/exercises/blob/main/python-basic-1/19-checklist.py) - A program that checks whether a specified value is contained within a group of values
+20. [19-checklis.py](https://github.com/B-Akapo/exercises/blob/main/python-basic-1/19-checklist.py) - A program that checks whether a specified value is contained within a group of values.
 
-21. [20-histogram.py](https://github.com/B-Akapo/exercises/blob/main/python-basic-1/20-histogram.py) - A program that creates a histogram from a given list of integers
+21. [20-histogram.py](https://github.com/B-Akapo/exercises/blob/main/python-basic-1/20-histogram.py) - A program that creates a histogram from a given list of integers.
+
+22. [21-convertint.py](https://github.com/B-Akapo/exercises/blob/main/python-basic-1/21-convertint.py) - A program that concatenates all elements in a list into a string.
