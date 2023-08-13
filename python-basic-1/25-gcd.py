@@ -13,9 +13,6 @@ Explanation:
 import math 
 
 def main():
-    """
-    Entry point of the program.
-    """
     num1 = int(input("Enter the first positive integer: "))
     num2 = int(input("Enter the second positive integer: "))
     
@@ -23,16 +20,6 @@ def main():
     print(f"The GCD of {num1} and {num2} is {gcd_result}")
 
 def calculate_gcd(a, b):
-    """
-    Calculates the GCD of two numbers using the math.gcd() function.
-    
-    Args:
-        a: First positive integer.
-        b: Second positive integer.
-    
-    Returns:
-        The GCD of the two numbers.
-    """
     return math.gcd(a, b)
 
 if __name__ == "__main__":
