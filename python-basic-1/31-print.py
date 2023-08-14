@@ -1,4 +1,4 @@
-# Description: that displays your name, age, and address on three different lines. 
+# Description: A program that displays your name, age, and address on three different lines. 
 
 def main():
     print_info()

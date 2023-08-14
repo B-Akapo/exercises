@@ -49,3 +49,19 @@
 25. [24-triangleare.py](https://github.com/B-Akapo/exercises/blob/main/python-basic-1/24-trianglearea.py) - A program that will accept the base and height of a triangle and compute its area. 
 
 26. [25-gcd.py](https://github.com/B-Akapo/exercises/blob/main/python-basic-1/25-gcd.py) - A program that computes the greatest common divisor (GCD) of two positive integers.
+
+27. [26-lcm.py](https://github.com/B-Akapo/exercises/blob/main/python-basic-1/26-lcm.py) - A program that computes the greatest common divisor (GCD) of two positive integers.
+
+28. [27-equalsum.py](https://github.com/B-Akapo/exercises/blob/main/python-basic-1/27-equalsum.py) - A program that sums three given integers. However, if two values are equal, the sum will be zero. 
+
+29. [28-sumagain.py](https://github.com/B-Akapo/exercises/blob/main/python-basic-1/28-sumagain.py) - A program that sum two given integers. However, if the sum is between 15 and 20 it will return 20. 
+
+30. [29-checksum.py](https://github.com/B-Akapo/exercises/blob/main/python-basic-1/29-checksum.py) - A Program that returns true if the two given integer values are equal or their sum or difference is 5.
+
+31. [30-validate.py](https://github.com/B-Akapo/exercises/blob/main/python-basic-1/30-validate.py) - A program that adds two objects if both objects are integers.
+
+32. [31-print.py](https://github.com/B-Akapo/exercises/blob/main/python-basic-1/31-print.py) - A program that displays your name, age, and address on three different lines.
+
+33. [32-solve.py](https://github.com/B-Akapo/exercises/blob/main/python-basic-1/32-solve.py) - A program program to solve (x + y) * (x + y)
+
+34. [33-compoundinterest.py](https://github.com/B-Akapo/exercises/blob/main/python-basic-1/33-compoundinterest.py) - A program that computes the future value of a specified principal amount, rate of interest, and number of years. 
