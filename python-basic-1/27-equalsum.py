@@ -2,8 +2,8 @@
 
 def main():
     num1 = validate_input("Enter the first positive integer: ")
-    num2 = validate_input("Enter the second positive integer: ")
-    num3 = validate_input("Enter the third positive integer: ")
+    num2 = validate_input("Enter the first positive integer: ")
+    num3 = validate_input("Enter the first positive integer: ")
 
     result = calculate_sum(num1, num2, num3)
     print(result)
@@ -20,10 +20,14 @@ def validate_input(prompt):
             print("Please enter a valid integer.")
 
 def calculate_sum(a, b, c):
-    if a == b or b == c or a == c:
-        return 0
+    sum = 0
+    total = a +  b + c
+    if a == b or b == c or a ==c:
+        sum = 0 
+        return sum
     else:
-        return a + b + c
+        return total
+
 
 if __name__ == "__main__":
     main()
