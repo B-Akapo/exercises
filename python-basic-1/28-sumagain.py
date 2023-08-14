@@ -11,7 +11,7 @@ def validate_input(prompt):
     while True:
         try:
             num = int(input(prompt))
-            return num  # Add this line to return the valid input
+            return num 
         except ValueError:
             print("Please enter a valid integer.")
 
