@@ -65,3 +65,5 @@
 33. [32-solve.py](https://github.com/B-Akapo/exercises/blob/main/python-basic-1/32-solve.py) - A program program to solve (x + y) * (x + y)
 
 34. [33-compoundinterest.py](https://github.com/B-Akapo/exercises/blob/main/python-basic-1/33-compoundinterest.py) - A program that computes the future value of a specified principal amount, rate of interest, and number of years. 
+
+
