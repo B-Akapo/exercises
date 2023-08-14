@@ -15,15 +15,11 @@
 | 13   | [12-sum.py](https://github.com/B-Akapo/exercises/blob/main/python-basic-1/12-sum.py) | Program that calculate the sum of three given numbers. |
 | 14   | [13-str.py](https://github.com/B-Akapo/exercises/blob/main/python-basic-1/13-str.py) | Program that adds "Is" to an inputed string. |
 | 15   | [14-strcopies.py](https://github.com/B-Akapo/exercises/blob/main/python-basic-1/14-strcopies.py) | Program that returns copies of an inputed string. |
-
-
-16. [15-parity.py](https://github.com/B-Akapo/exercises/blob/main/python-basic-1/15-parity.py) - Program that determines if a number is even or odd.
-
-17. [16-list.py](https://github.com/B-Akapo/exercises/blob/main/python-basic-1/16-list.py) - Program that counts the number 4 in a given list. 
-
-18. [17-copiesagain.py](https://github.com/B-Akapo/exercises/blob/main/python-basic-1/17-copiesagain.py) - Program that gets n (non-negative integer) copies of the first 2 characters.
-
-19. [18-vowel.py](https://github.com/B-Akapo/exercises/blob/main/python-basic-1/18-vowel.py) - Program that checks if a letter passed is a vowel.
+| 16   | [15-parity.py](https://github.com/B-Akapo/exercises/blob/main/python-basic-1/15-parity.py) | Program that determines if a number is even or odd. |
+| 17   | [16-list.py](https://github.com/B-Akapo/exercises/blob/main/python-basic-1/16-list.py) | Program that counts the number 4 in a given list.  |
+| 18   | [17-copiesagain.py](https://github.com/B-Akapo/exercises/blob/main/python-basic-1/17-copiesagain.py)  | Program that gets n (non-negative integer) copies of the first 2 characters. |
+| 19   | [18-vowel.py](https://github.com/B-Akapo/exercises/blob/main/python-basic-1/18-vowel.py) | Program that checks if a letter passed is a vowel. |
+| 20   | [19-checklis.py](https://github.com/B-Akapo/exercises/blob/main/python-basic-1/19-checklist.py) | A program that checks whether a specified value is contained within a group of values. |
 
 20. [19-checklis.py](https://github.com/B-Akapo/exercises/blob/main/python-basic-1/19-checklist.py) - A program that checks whether a specified value is contained within a group of values.
 
