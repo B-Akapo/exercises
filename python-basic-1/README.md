@@ -20,35 +20,20 @@
 | 18   |[17-copiesagain.py](https://github.com/B-Akapo/exercises/blob/main/python-basic-1/17-copiesagain.py) | Program that gets n (non-negative integer) copies of the first 2 characters. |
 | 19   | [18-vowel.py](https://github.com/B-Akapo/exercises/blob/main/python-basic-1/18-vowel.py) | Program that checks if a letter passed is a vowel. |
 | 20   | [19-checklis.py](https://github.com/B-Akapo/exercises/blob/main/python-basic-1/19-checklist.py) | A program that checks whether a specified value is contained within a group of values. |
+| 21  | [20-histogram.py](https://github.com/B-Akapo/exercises/blob/main/python-basic-1/20-histogram.py)| A program that creates a histogram from a given list of integers.|
+| 22  | [21-convertint.py](https://github.com/B-Akapo/exercises/blob/main/python-basic-1/21-convertint.py) | A program that concatenates all elements in a list into a string. |
+| 23  | [22-evenlist.py](https://github.com/B-Akapo/exercises/blob/main/python-basic-1/22-evenlist.py) | A program that prints all even numbers from a given list|
+| 24 | [23-colorlist.py](https://github.com/B-Akapo/exercises/blob/main/python-basic-1/23-colorlist.py)  | A program that prints out all colors from color_list_1 that are not present in color_list_2 |
+| 25   | [24-triangleare.py](https://github.com/B-Akapo/exercises/blob/main/python-basic-1/24-trianglearea.py) | A program that will accept the base and height of a triangle and compute its area.  |
+| 26   | [25-gcd.py](https://github.com/B-Akapo/exercises/blob/main/python-basic-1/25-gcd.py) | A program that computes the greatest common divisor (GCD) of two positive integers.  |
+| 27  | [26-lcm.py](https://github.com/B-Akapo/exercises/blob/main/python-basic-1/26-lcm.py) | A program that computes the least common muliplier (LCM) of two positive integers.  |
+| 28 | [27-equalsum.py](https://github.com/B-Akapo/exercises/blob/main/python-basic-1/27-equalsum.py)  |  A program that sums three given integers. However, if two values are equal, the sum will be zero.  |
+| 29 | [28-sumagain.py](https://github.com/B-Akapo/exercises/blob/main/python-basic-1/28-sumagain.py)  | A program that sum two given integers. However, if the sum is between 15 and 20 it will return 20. |
+| 30 | [29-checksum.py](https://github.com/B-Akapo/exercises/blob/main/python-basic-1/29-checksum.py)  | A Program that returns true if the two given integer values are equal or their sum or difference is 5. |
+| 31 | [31-print.py](https://github.com/B-Akapo/exercises/blob/main/python-basic-1/31-print.py) | A program that adds two objects if both objects are integers.|
+| 32 | [28-sumagain.py](https://github.com/B-Akapo/exercises/blob/main/python-basic-1/28-sumagain.py)  | A program that displays your name, age, and address on three different lines. |
+| 33 | [32-solve.py](https://github.com/B-Akapo/exercises/blob/main/python-basic-1/32-solve.py)  | A program program to solve (x + y) * (x + y)|
+| 34 | [33-compoundinterest.py](https://github.com/B-Akapo/exercises/blob/main/python-basic-1/33-compoundinterest.py)  | A program that computes the future value of a specified principal amount, rate of interest, and number of years. |
 
-20. [19-checklist.py](https://github.com/B-Akapo/exercises/blob/main/python-basic-1/19-checklist.py) - A program that checks whether a specified value is contained within a group of values.
-
-21. [20-histogram.py](https://github.com/B-Akapo/exercises/blob/main/python-basic-1/20-histogram.py) - A program that creates a histogram from a given list of integers.
-
-22. [21-convertint.py](https://github.com/B-Akapo/exercises/blob/main/python-basic-1/21-convertint.py) - A program that concatenates all elements in a list into a string.
-
-23. [22-evenlist.py](https://github.com/B-Akapo/exercises/blob/main/python-basic-1/22-evenlist.py) - A program that prints all even numbers from a given list
-
-24. [23-colorlist.py](https://github.com/B-Akapo/exercises/blob/main/python-basic-1/23-colorlist.py) - A program that prints out all colors from color_list_1 that are not present in color_list_2
-
-25. [24-triangleare.py](https://github.com/B-Akapo/exercises/blob/main/python-basic-1/24-trianglearea.py) - A program that will accept the base and height of a triangle and compute its area. 
-
-26. [25-gcd.py](https://github.com/B-Akapo/exercises/blob/main/python-basic-1/25-gcd.py) - A program that computes the greatest common divisor (GCD) of two positive integers.
-
-27. [26-lcm.py](https://github.com/B-Akapo/exercises/blob/main/python-basic-1/26-lcm.py) - A program that computes the greatest common divisor (GCD) of two positive integers.
-
-28. [27-equalsum.py](https://github.com/B-Akapo/exercises/blob/main/python-basic-1/27-equalsum.py) - A program that sums three given integers. However, if two values are equal, the sum will be zero. 
-
-29. [28-sumagain.py](https://github.com/B-Akapo/exercises/blob/main/python-basic-1/28-sumagain.py) - A program that sum two given integers. However, if the sum is between 15 and 20 it will return 20. 
-
-30. [29-checksum.py](https://github.com/B-Akapo/exercises/blob/main/python-basic-1/29-checksum.py) - A Program that returns true if the two given integer values are equal or their sum or difference is 5.
-
-31. [30-validate.py](https://github.com/B-Akapo/exercises/blob/main/python-basic-1/30-validate.py) - A program that adds two objects if both objects are integers.
-
-32. [31-print.py](https://github.com/B-Akapo/exercises/blob/main/python-basic-1/31-print.py) - A program that displays your name, age, and address on three different lines.
-
-33. [32-solve.py](https://github.com/B-Akapo/exercises/blob/main/python-basic-1/32-solve.py) - A program program to solve (x + y) * (x + y)
-
-34. [33-compoundinterest.py](https://github.com/B-Akapo/exercises/blob/main/python-basic-1/33-compoundinterest.py) - A program that computes the future value of a specified principal amount, rate of interest, and number of years. 
 
 
