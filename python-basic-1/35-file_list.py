@@ -3,7 +3,7 @@
 import os.path
 
 def main():
-    user_input = input("Please enter file name: ")  # Move this line inside the main function
+    user_input = input("Please enter file name: ")
     if check_file(user_input):
         print(f"{user_input} exists")
     else:
