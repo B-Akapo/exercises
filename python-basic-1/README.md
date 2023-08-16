@@ -34,6 +34,8 @@
 | 32 | [28-sumagain.py](https://github.com/B-Akapo/exercises/blob/main/python-basic-1/28-sumagain.py)  | A program that displays your name, age, and address on three different lines. |
 | 33 | [32-solve.py](https://github.com/B-Akapo/exercises/blob/main/python-basic-1/32-solve.py)  | A program program to solve (x + y) * (x + y)|
 | 34 | [33-compoundinterest.py](https://github.com/B-Akapo/exercises/blob/main/python-basic-1/33-compoundinterest.py)  | A program that computes the future value of a specified principal amount, rate of interest, and number of years. |
+| 35 | [34-distant-points.py](https://github.com/B-Akapo/exercises/blob/main/python-basic-1/34-distant-points.py)  | A program that calculates the distance between the points (x1, y1) and (x2, y2). |
+| 36 | [35-file_list.py](https://github.com/B-Akapo/exercises/blob/main/python-basic-1/35-file_list.py)  | A program that checks if a file exists |
 
 
 
